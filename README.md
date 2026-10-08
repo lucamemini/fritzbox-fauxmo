@@ -716,13 +716,6 @@ Future work may include exposing additional FRITZ!DECT capabilities, such as:
 * additional Alexa capabilities
 * potentially an Alexa Smart Home Skill for sensor support
 
----
-
-# License
-
-Choose and add a license before publishing the project publicly.
-
-For example, if you want a permissive open-source license, you can use the MIT License.
 
 ---
 
