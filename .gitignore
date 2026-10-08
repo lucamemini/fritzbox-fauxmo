@@ -1,0 +1,17 @@
+# Generated Fauxmo configuration
+config.json
+
+# Environment / secrets
+.env
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
